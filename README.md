@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Jan Stachurski</h1>
-<h3 align="left">Currently 4th year student of Computer Science at Warsaw University of Technology.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
